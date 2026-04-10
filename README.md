@@ -1,4 +1,5 @@
 # DevOps-TrainingExam1
+Testing with softuni.org | Below is testing with the exam's website -> bazarsoftuninikiexam.azurewebsites.net
 
 Prometheus - firing an alarm simulation
 <img width="1920" height="744" alt="Screenshot 2026-04-11 at 1 14 57 AM" src="https://github.com/user-attachments/assets/9aae1bba-d589-446e-8622-e6c6fd3c9a06" />
@@ -11,3 +12,4 @@ WebHook registering
 
 Grafana Histogram dashboard
 <img width="1216" height="544" alt="Screenshot 2026-04-11 at 1 38 35 AM" src="https://github.com/user-attachments/assets/8a1d66d0-d114-4e8d-88d6-aa9bd9f3f9a3" />
+
